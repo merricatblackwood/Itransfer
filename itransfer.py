@@ -1,6 +1,6 @@
 import taglib as tl
 import sys, osoptomization technique 
-from shutil im---------------------- port copy2
+from shutil import copy2
 
 #---------------------- || run through each artists and albums and add to a dictionary 
 #optomization technique || once that is finished make the directory structure first
