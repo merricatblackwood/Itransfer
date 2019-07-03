@@ -1,5 +1,5 @@
 import taglib as tl
-import sys, osoptomization technique 
+import sys, os
 from shutil import copy2
 
 #---------------------- || run through each artists and albums and add to a dictionary 
